@@ -11,7 +11,7 @@ function App() {
     <div>
       <ThemeProvider theme={theme}>
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<Hero />} />
           <Route path="login" element={<Login />} />
           <Route path="hero" element={<Hero />} />
           <Route path="*" element={<NotFound />} />
