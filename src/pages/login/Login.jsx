@@ -50,7 +50,7 @@ const Login = () => {
         <div className="flex flex-col items-center md:items-start">
           <div className="bg-green-800 w-28 h-28 md:w-40 md:h-40 lg:w-56 lg:h-56 rounded-full"></div>
           <h1 className="text-xl md:text-2xl lg:text-3xl font-semibold mt-4 text-center md:text-left">
-            JASUR OPTOM
+            JASUR SAVDO
           </h1>
         </div>
 
