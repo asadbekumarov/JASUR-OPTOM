@@ -1,11 +1,9 @@
 import React from "react";
-import Sidebar from "../../components/sidebar/Sidebar";
 import Main from "../../components/main/Main";
 
 function Home() {
   return (
-    <div className="flex">
-      <Sidebar />
+    <div className="flex-1">
       <Main />
     </div>
   );
